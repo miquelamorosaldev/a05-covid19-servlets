@@ -1,0 +1,25 @@
+.video {
+    max-width: 100%;
+    height: auto;
+}
+.error {
+    color:red;
+}
+#banner-img {
+    /* override other styles to make responsive */
+    width: 100%    !important;
+    height: auto   !important;
+}
+.opt-menu {
+    color: yellow;
+    background-color: #dc3545!important
+}
+
+footer {
+    background-color: red;
+    color: white;
+}
+
+#dni {
+    font-size: 1.5em;
+}
